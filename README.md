@@ -2,14 +2,14 @@
 
 ### Start Example
 
-Download dependencies
+Open Example
 ```
-tuist fetch
+cd Example
 ```
 
 Generate and run project
 ```
-tuist generate
+bash setup_project.sh
 ```
 
 [![Tuist badge](https://img.shields.io/badge/Powered%20by-Tuist-blue)](https://tuist.io)
