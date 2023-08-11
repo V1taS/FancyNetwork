@@ -71,3 +71,5 @@ Example/Example.xcworkspace
 Example/Example.xcodeproj
 Example/Example.xcodeproj
 FancyNetwork.xcodeproj
+Example/Project.swift
+Example/Workspace.swift
